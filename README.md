@@ -1,6 +1,6 @@
-Back Posture Detection - YOLOv8(OpenCV)
+##Back Posture Detection - YOLOv8(OpenCV)
 
-A real-time human posture detection system using YOLOv8 Pose Estimation and OpenCV.
+A real time human posture detection system using YOLOv8 Pose Estimation and OpenCV.
 The application analyzes body keypoints (shoulder, hip, knee) to calculate the back angle and classifies posture as GOOD or BAD in real time.
 
 Features:
