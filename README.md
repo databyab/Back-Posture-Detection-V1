@@ -109,6 +109,3 @@ setup.py               # Package config
 verify_setup.py        # Environment check
 ```
 
-## License
-
-MIT
